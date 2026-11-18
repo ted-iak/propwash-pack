@@ -138,7 +138,7 @@ hash = "e8199d4bb35b1817a6a17994cf8af27d969817b25ea78695fd0306b7931b7179"
 
 [[files]]
 file = "config/controlflex/profiles/bedrock.json"
-hash = "94d7b14ca1101e2278e57d80ab6d1a69941857b1f5a58f0899bd78617673bc34"
+hash = "a35fdb3aae3253f754c2997a2e9be943e0ea09837fc804f44ca480823658ad57"
 
 [[files]]
 file = "config/controlflex/profiles/recommend.json"
