@@ -37,7 +37,7 @@
     }
   },
   "accessibility": {
-    "enableTextToSpeech": true,
+    "enableTextToSpeech": false,
     "ttsMode": "TOGGLE",
     "enableAccessibilityPlugin": false,
     "textBackgroundOpacity": 0.0,

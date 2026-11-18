@@ -350,7 +350,7 @@ hash = "085ae084a98180d4659ef60f9cf91281152a6e7b74a5a76c53f86e4f8f0d17f9"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "73245d049a29436ba3ff5781112fbaaf9941f0b00f2af5d6341136fdb31dd06e"
+hash = "b2fdf3c930e1f78d6dfb54597e07a398b8ae92e47115e96912986e18003a3ac2"
 
 [[files]]
 file = "config/jade/profiles/1/jade.json"
