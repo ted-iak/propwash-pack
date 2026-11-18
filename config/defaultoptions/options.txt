@@ -237,7 +237,7 @@ key_key.immersive_aircraft.multi_control_down:key.keyboard.left.shift
 key_key.immersive_aircraft.multi_control_pull:key.keyboard.s
 key_key.immersive_aircraft.multi_control_push:key.keyboard.w
 key_key.immersive_aircraft.multi_use:key.mouse.right
-key_key.immersive_aircraft.dismount:key.keyboard.right.shift
+key_key.immersive_aircraft.dismount:key.keyboard.r
 key_key.immersive_aircraft.boost:key.keyboard.u
 key_key.jade.config:key.keyboard.unknown
 key_key.jade.show_overlay:key.keyboard.unknown

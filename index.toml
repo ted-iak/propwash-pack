@@ -266,11 +266,11 @@ hash = "62fbead0e089742c70392c30fb48a28d7e7bb88dbfb21224f420593d08f32993"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "6c05f0e8731282c9a8d2b3d2e6a641d47766654dc09241b71ae8827ef1f9fa90"
+hash = "e48eaf37da181b26c2ed044d1f55638656cae9659fb7cc359065d630563a1757"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "3c5a76227229b9f7286362fccc2fcffbc58fd9cd05c46e6d3bc95d886eb0da6c"
+hash = "01eeccb42530bf39fa2d5d855280d0b59959c90cdc4c2ba5c4002a5e22426b35"
 
 [[files]]
 file = "config/entityculling.json"
