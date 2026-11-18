@@ -1,0 +1,13 @@
+name = "Better Happy Ghast Controls"
+filename = "ghastcontrols-fabric-26.3-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oPS4XM11/versions/bi2Oy5VD/ghastcontrols-fabric-26.3-1.0.6.jar"
+hash-format = "sha512"
+hash = "c435f671d0cc640c8b8a9062459b6da2dd3de70cdc17c4d21898321e419a56ea50d916d8ef9b4d92dcb3091b41c1f91a5b9e51aa1c925a9bbeb837ee24108562"
+
+[update]
+[update.modrinth]
+mod-id = "oPS4XM11"
+version = "bi2Oy5VD"

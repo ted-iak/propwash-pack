@@ -1,0 +1,13 @@
+name = "Propwash: Just more Parts"
+filename = "justmoreparts-fabric-26.3-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "857a5a2c55132a8f46cc8a00f4d5b32e2a22cef4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9227417
+project-id = 1729135

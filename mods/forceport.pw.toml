@@ -1,0 +1,13 @@
+name = "Force Port"
+filename = "force-port-fabric-1.0.2+26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LWbtK2M4/versions/x0NQ7Rwj/force-port-fabric-1.0.2%2B26.3.jar"
+hash-format = "sha512"
+hash = "7ab905a41ffded84a60333afbab1c6cd425f0eb03d743558f5c6a47912ecf4a927d2a4cb9104091762833ed6e0ad03cac9062c5b2fd0ca7d251490bd650e4d90"
+
+[update]
+[update.modrinth]
+mod-id = "LWbtK2M4"
+version = "x0NQ7Rwj"

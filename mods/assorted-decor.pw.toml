@@ -1,0 +1,13 @@
+name = "Assorted Decor"
+filename = "assorteddecor-fabric-26.3-13.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DyXZJYKu/versions/lLSOyBv4/assorteddecor-fabric-26.3-13.0.0.jar"
+hash-format = "sha512"
+hash = "f512cc87396192a886ec951fe1650f2001344285f914c524d01d5f72871891bb6e27b9b8c6462267890c7d83783900b92798ab9c72447c3a248b193aa6001550"
+
+[update]
+[update.modrinth]
+mod-id = "DyXZJYKu"
+version = "lLSOyBv4"

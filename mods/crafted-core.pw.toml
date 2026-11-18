@@ -1,0 +1,13 @@
+name = "CraftedCore"
+filename = "craftedcore-fabric-8.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dg7PHdkJ/versions/ODjzWSMO/craftedcore-fabric-8.3.2.jar"
+hash-format = "sha512"
+hash = "124c0a2233e6d56e528611b119e6f651ab0aa0e2e69cf924809f57a8ed82290b2cd592687354b8b99d88041c96f2ed947c3c5453e68819d843604d96b39fb255"
+
+[update]
+[update.modrinth]
+mod-id = "Dg7PHdkJ"
+version = "ODjzWSMO"

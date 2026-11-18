@@ -1,0 +1,13 @@
+name = "Extra Mobs: More Mob Variants"
+filename = "moremobvariants-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fTv4Ks5M/versions/9mFUBvuq/moremobvariants-1.4.1.jar"
+hash-format = "sha512"
+hash = "8e922fc8c14899803dc15be86a9248ac94389541e831d0865591b56cd895cbe76260d2576bc620f71eb50f0852932032a522eda48cd96d2d68757808b93c0fb6"
+
+[update]
+[update.modrinth]
+mod-id = "fTv4Ks5M"
+version = "9mFUBvuq"

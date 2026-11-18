@@ -1,0 +1,13 @@
+name = "KhazodaCore"
+filename = "khazodacore-fabric-1.0.4+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/336usnuE/versions/LwxfLb9l/khazodacore-fabric-1.0.4%2B26.3.jar"
+hash-format = "sha512"
+hash = "27fe2f2f1593449761f11d6007477ea9fc8505a42f071780624066d188cc3abd12d0b3588e18e1a466496ba39646a961976ca7df8ebf43eb16a18c33a69db05f"
+
+[update]
+[update.modrinth]
+mod-id = "336usnuE"
+version = "LwxfLb9l"

@@ -1,0 +1,13 @@
+name = "Friendly Fire"
+filename = "FriendlyFire-fabric-MC26.3-26.3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FTaA4pRW/versions/OI1ROEj9/FriendlyFire-fabric-MC26.3-26.3.0.1.jar"
+hash-format = "sha512"
+hash = "e8e95117c867c727a0ec848cc1aceb3ddc4f4b31d6a7015a48db5fa417d85127c2502bacc132a40f2e53d24d4109a0dfb02d8e76c9ccad4d4c3036cb1d56878d"
+
+[update]
+[update.modrinth]
+mod-id = "FTaA4pRW"
+version = "OI1ROEj9"

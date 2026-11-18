@@ -1,0 +1,13 @@
+name = "Cozy's Improved Wolves"
+filename = "cozys-improved-wolves-fabric-mc26.3-v2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N4PW8UQo/versions/HAtUchUu/cozys-improved-wolves-fabric-mc26.3-v2.1.1.jar"
+hash-format = "sha512"
+hash = "ab94ead86ee63c6edeb27b432f33b406aed1fc9daa48b66d2a948749398d6cdbdff38085267a32f9300d0f5365a435309c49623045e305256ee6ac286d865cde"
+
+[update]
+[update.modrinth]
+mod-id = "N4PW8UQo"
+version = "HAtUchUu"

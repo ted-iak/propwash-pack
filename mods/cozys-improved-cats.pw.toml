@@ -1,0 +1,13 @@
+name = "Cozy's Improved Cats"
+filename = "cozys-improved-cats-2.1.0-fabric-26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5MaZBjPT/versions/q96cHCMz/cozys-improved-cats-2.1.0-fabric-26.3.jar"
+hash-format = "sha512"
+hash = "cfd204f6fb40c9d947444e01feace9a51315437dccf5bbd6ab2514e8d88ba84c09c21a8507db8a98dd279a1bd4d487520b98e9ecf6ee34342e9dc9281a14db42"
+
+[update]
+[update.modrinth]
+mod-id = "5MaZBjPT"
+version = "q96cHCMz"

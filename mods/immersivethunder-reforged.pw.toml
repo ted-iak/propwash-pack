@@ -1,0 +1,13 @@
+name = "ImmersiveThunder: Reforged"
+filename = "ImmersiveThunder-Reforged-fabric-26.3-1.3.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8qptmVok/versions/fh4pMew2/ImmersiveThunder-Reforged-fabric-26.3-1.3.8.jar"
+hash-format = "sha512"
+hash = "b92ff02059f40300fe208f793961f65165c2bb2736ff4341a5f081f43068877a1616bebe3116bb50040dacc66a665c5a7b05e46d52df6789cf1c961dda52b104"
+
+[update]
+[update.modrinth]
+mod-id = "8qptmVok"
+version = "fh4pMew2"

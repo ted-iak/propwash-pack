@@ -1,0 +1,13 @@
+name = "Moog's Glow Up"
+filename = "MoogsGlowUp-fabric-26.3-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iLlwyhcZ/versions/OIZ4ZBTL/MoogsGlowUp-fabric-26.3-2.3.0.jar"
+hash-format = "sha512"
+hash = "3b7275b1cb4c2749194b9edd2f93d9a9ee7289189c9b8d644885eac8e02ee933457a088fbadf8f874a61430aae12d248065a315c28167b29d0580d64fcff2cb7"
+
+[update]
+[update.modrinth]
+mod-id = "iLlwyhcZ"
+version = "OIZ4ZBTL"

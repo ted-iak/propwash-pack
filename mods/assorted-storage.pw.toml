@@ -1,0 +1,13 @@
+name = "Assorted Storage"
+filename = "assortedstorage-fabric-26.3-13.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RY5hZOKH/versions/ZyA3hd5H/assortedstorage-fabric-26.3-13.0.1.jar"
+hash-format = "sha512"
+hash = "b780283e2f80d818971b15a83fab7b461e8057c156007d35ebcc66f45ba82493bc8506340f1c6ee164a6b28c1eb540fe4e453a64213c1027c59603b43beba3dc"
+
+[update]
+[update.modrinth]
+mod-id = "RY5hZOKH"
+version = "ZyA3hd5H"

@@ -1,0 +1,13 @@
+name = "Deimos"
+filename = "deimos-26.3-fabric-2.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WQaxNzFg/versions/uCeK99wj/deimos-26.3-fabric-2.8.jar"
+hash-format = "sha512"
+hash = "92cd68c0c161329ff54bf233e0582b01f2a4ae9b712aae74043b21de6fd8ced92b60a2b3876a54545ce9138675d22032f86ac46da66f54f0a7eedc9a4506efe4"
+
+[update]
+[update.modrinth]
+mod-id = "WQaxNzFg"
+version = "uCeK99wj"

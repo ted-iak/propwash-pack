@@ -1,0 +1,13 @@
+name = "Assorted Lib"
+filename = "assortedlib-fabric-26.3-5.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KkmxwW72/versions/HyLTEUAN/assortedlib-fabric-26.3-5.0.2.jar"
+hash-format = "sha512"
+hash = "c8d7946af2e3195b6bb650ec69e7059bfc686404a1ce390d783ad590e44f478cb8453b1f7a1389569f2f353a071ea308563fb4db7eb77defefcaf8225978ce30"
+
+[update]
+[update.modrinth]
+mod-id = "KkmxwW72"
+version = "HyLTEUAN"

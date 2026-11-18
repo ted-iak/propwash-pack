@@ -1,0 +1,13 @@
+name = "ReMorphed | Identity-style Morphing, Rebuilt"
+filename = "remorphed-fabric-8.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8aeV5uJW/versions/kVdcMvbp/remorphed-fabric-8.2.0.jar"
+hash-format = "sha512"
+hash = "e046c26b36926f5232575406e346e123c96b956d171424f5afd51fab100f9f5f39dd0e13874edaaaffcb8dd1d0b19f7478c9f1ce2bbda92a8c6a9dd4cf12e4d4"
+
+[update]
+[update.modrinth]
+mod-id = "8aeV5uJW"
+version = "kVdcMvbp"

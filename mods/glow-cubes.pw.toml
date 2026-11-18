@@ -1,0 +1,13 @@
+name = "Glow Cubes"
+filename = "glowcubes-fabric-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KztebRPh/versions/1GJCXfoh/glowcubes-fabric-0.2.0.jar"
+hash-format = "sha512"
+hash = "8567edbd2878d07c04d42bfd0f26cc86719d6720f0babf1c8ec556f9a6aef35b2031e885b186287fb1ab0f5292ac5a8b5e2fa2ba3bef7399a6b2811745305cc9"
+
+[update]
+[update.modrinth]
+mod-id = "KztebRPh"
+version = "1GJCXfoh"

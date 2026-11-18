@@ -1,0 +1,13 @@
+name = "Portal Gun Totality 1.21-26.3 [Fabric & NeoForge]"
+filename = "portalguntotality-3.0.0+26.3-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4fa2f91161aadc170be32417c250d857f2d646f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9329021
+project-id = 615306

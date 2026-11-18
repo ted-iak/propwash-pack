@@ -1,0 +1,13 @@
+name = "Hang Glider"
+filename = "hangglider-v26.3.0-mc26.3.x+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uHWrqYcS/versions/tlquk5j3/hangglider-v26.3.0-mc26.3.x%2Bfabric.jar"
+hash-format = "sha512"
+hash = "38bafc1279b970656a0bd60141bfb8b202ed22b55d3a867eddc9ae11d42d090f193caec2bb7b4cb841d649a2ab73f6fa1086c9c656628246556d17eb57732b1e"
+
+[update]
+[update.modrinth]
+mod-id = "uHWrqYcS"
+version = "tlquk5j3"

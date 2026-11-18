@@ -1,0 +1,13 @@
+name = "Propwash FPV"
+filename = "propwash-fabric-26.3-0.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "240b9569c495ad13d263351716030d4ecdcc7921"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9227381
+project-id = 1711041

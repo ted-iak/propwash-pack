@@ -1,0 +1,13 @@
+name = "SkinShifter"
+filename = "skinshifter-fabric-3.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dSkZ41Y3/versions/EwJlYPCf/skinshifter-fabric-3.3.0.jar"
+hash-format = "sha512"
+hash = "dd1dbdafc8ef9797d969783b8da658a82111a4cd7667e8b25d364b8f147a78d16a5a289ea3f5addfcf841b112816ae4c36d991ca482631061587c5b958bf330a"
+
+[update]
+[update.modrinth]
+mod-id = "dSkZ41Y3"
+version = "EwJlYPCf"

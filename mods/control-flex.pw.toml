@@ -1,0 +1,13 @@
+name = "Control Flex - Controller Support"
+filename = "controlflex-0.8.9-mc26.3-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef61e9009c95ca5367729e837dc2d8a7412dbdec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9374098
+project-id = 1590666

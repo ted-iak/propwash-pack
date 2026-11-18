@@ -1,0 +1,13 @@
+name = "PeterWolfs Boats & Ships"
+filename = "peterwolfs-boats-and-ships-1.0.24.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VG7ttQYT/versions/X1oNRhT8/peterwolfs-boats-and-ships-1.0.24.jar"
+hash-format = "sha512"
+hash = "8b609b56f66d1b381242f8c3be120a167ee3d82881d6d2e90333c11895fbb91e884b7e9ea85b3861e064b2b3d3f3c61ccc83815f98a8d665707335f131ee5b4f"
+
+[update]
+[update.modrinth]
+mod-id = "VG7ttQYT"
+version = "X1oNRhT8"
