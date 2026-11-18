@@ -138,7 +138,7 @@ hash = "e8199d4bb35b1817a6a17994cf8af27d969817b25ea78695fd0306b7931b7179"
 
 [[files]]
 file = "config/controlflex/profiles/bedrock.json"
-hash = "d30f6f3fb4f47fad2ef8363990f9541fbeac4f9f97160dd15a1611e04ae346e0"
+hash = "8cc3248187ab4fbf7f60d990563d1f9a552e04ddcbb94a683bffe8db1712471c"
 
 [[files]]
 file = "config/controlflex/profiles/recommend.json"
@@ -941,7 +941,7 @@ hash = "1581d575494c22e7cf766b0d89c53e5b0688a91efe3873174e91efcfddf49afa"
 
 [[files]]
 file = "config/yo_hooks/yo_hooks-client.json"
-hash = "702279f62a81e3f26c18d948c57492d3db23ee3b5bed9a778a09fdd803b062fc"
+hash = "12a2126af63bcda5d3190b33a3d143e906acc2f8e4d1b8c415941abecdd5c72a"
 
 [[files]]
 file = "config/yo_hooks/yo_hooks-common.json"

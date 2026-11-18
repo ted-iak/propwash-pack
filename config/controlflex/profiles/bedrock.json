@@ -90,7 +90,9 @@
     "immersive_aircraft:key.immersive_aircraft.multi_control_pull": "leftStickDown|HOLD",
     "immersive_aircraft:key.immersive_aircraft.multi_control_backward": "leftStickDown|HOLD",
     "immersive_aircraft:key.immersive_aircraft.dismount": "leftStickClick+buttonB|PRESS",
-    "immersive_aircraft:key.immersive_aircraft.multi_control_left": "leftStickLeft|HOLD"
+    "immersive_aircraft:key.immersive_aircraft.multi_control_left": "leftStickLeft|HOLD",
+    "yo_hooks:key.yo_hooks.climb": "leftBumper|HOLD",
+    "yo_hooks:key.yo_hooks.climb_down": "rightBumper|HOLD"
   },
   "shift1ActionBindings": {
     "move_forward": "leftStickUp|HOLD",
