@@ -1550,6 +1550,46 @@ hash = "69d59e21d73dda02ac9723be2d87c57ca19c03072fc0f7018765d89fe423b844"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Propwash-Cyber-Neon/assets/minecraft/optifine/emissive.properties"
+hash = "b446f7f0a335d4962a9ebc6baf964a29c4c4e285a7f0bddf33b0ef0238aaed71"
+
+[[files]]
+file = "resourcepacks/Propwash-Cyber-Neon/assets/minecraft/textures/block/glowstone.png"
+hash = "d7a8105356fb7f9ceae38972b657c0cac6176a8555772df0fcaa04fe0f4d1775"
+
+[[files]]
+file = "resourcepacks/Propwash-Cyber-Neon/assets/minecraft/textures/block/glowstone_e.png"
+hash = "c81e3b4507e967a78d3fabbc015cdb18c5a369b032b57e1cf4a2ca58c96d2294"
+
+[[files]]
+file = "resourcepacks/Propwash-Cyber-Neon/assets/minecraft/textures/block/redstone_lamp_on.png"
+hash = "8e07f6ad4a6511fd03438b95e2a6ca15bca938e86dda5bb609628744879aa965"
+
+[[files]]
+file = "resourcepacks/Propwash-Cyber-Neon/assets/minecraft/textures/block/redstone_lamp_on_e.png"
+hash = "7d3c5805e77ae9ff8becdd9977d44a7ebdfbd023fb3f45f7f109a9caf233d072"
+
+[[files]]
+file = "resourcepacks/Propwash-Cyber-Neon/assets/minecraft/textures/block/sea_lantern.png"
+hash = "72b5e5828905955dd190babd34d5504778baa3da4adf6d9449805e61b0c4eb93"
+
+[[files]]
+file = "resourcepacks/Propwash-Cyber-Neon/assets/minecraft/textures/block/sea_lantern_e.png"
+hash = "07bdafb26f564e53244ffc3ba690a6b26560dde887c1de8a9172f2b081bae599"
+
+[[files]]
+file = "resourcepacks/Propwash-Cyber-Neon/assets/minecraft/textures/block/shroomlight.png"
+hash = "8b1b9abbe9d8213a0e094b09b37565e8cb8fee403514439345437d9654c62fdd"
+
+[[files]]
+file = "resourcepacks/Propwash-Cyber-Neon/assets/minecraft/textures/block/shroomlight_e.png"
+hash = "f949dd2274176c8c55f1a22b31724d22fbc2ac642b6dc351fe341e19e3d5e9c4"
+
+[[files]]
+file = "resourcepacks/Propwash-Cyber-Neon/pack.mcmeta"
+hash = "e684047af99adbda12893fbd378e76f38a2fa834c2648fb6837f2420cf0a2a3b"
+
+[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "9d86e9fe1edddc7b47abd9fa8ee69c3b88489abe99205bc194ed520a3c35646b"
 metafile = true
