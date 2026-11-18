@@ -941,7 +941,7 @@ hash = "1581d575494c22e7cf766b0d89c53e5b0688a91efe3873174e91efcfddf49afa"
 
 [[files]]
 file = "config/yo_hooks/yo_hooks-client.json"
-hash = "e514ab6b3dac1e0175bdb4afa3bc9ae2371a994e9205a180f85b3f7d17fbbc0a"
+hash = "702279f62a81e3f26c18d948c57492d3db23ee3b5bed9a778a09fdd803b062fc"
 
 [[files]]
 file = "config/yo_hooks/yo_hooks-common.json"
