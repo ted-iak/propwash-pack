@@ -1,0 +1,12 @@
+{
+  "frames": {
+    "framesBurn": true,
+    "dyeFrames": true
+  },
+  "wallpaper": {
+    "wallpapersBurn": true,
+    "dyeWallpapers": true,
+    "wallpapersCopyDye": true,
+    "numWallpaperOptions": 24
+  }
+}

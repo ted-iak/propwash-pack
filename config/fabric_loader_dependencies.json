@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "overrides": {
+    "peterwolfs_boats_and_ships": {
+      "-depends": {
+        "pw_wind_n_sails": "*",
+        "peterwolfs_ocean_cruiser_sail_yacht": "*",
+        "peterwolfs_cruiser_sail_yacht": "*",
+        "peterwolfs_catamaran_sail_yacht": "*",
+        "peterwolfs_trimaran_sport_yacht": "*"
+      }
+    }
+  }
+}

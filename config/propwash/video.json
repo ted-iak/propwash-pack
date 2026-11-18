@@ -1,0 +1,16 @@
+{
+  "creativeFovFromModule": true,
+  "fovCreative": 120,
+  "effectStrength": 0.7,
+  "reduceFlicker": true,
+  "renderer": "AUTO",
+  "creativeLatencyFromModule": true,
+  "creativeLatencyMs": 0,
+  "creativeRangeBlocks": 0,
+  "creativeNoise": 0.0,
+  "creativeObstruction": false,
+  "imageFormat": "WIDE",
+  "ledLighting": true,
+  "cameraShake": 1.0,
+  "lensStrength": 80
+}

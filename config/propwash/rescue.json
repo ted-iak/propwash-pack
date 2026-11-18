@@ -1,0 +1,13 @@
+{
+  "failsafeAction": "RETURN_HOME",
+  "homeMode": "FIRST_ARM",
+  "altitude": 15.0,
+  "speed": 8.0,
+  "descentRate": 2.0,
+  "obstacleAvoidance": true,
+  "clearance": 1.0,
+  "minDistance": 8.0,
+  "autoLand": true,
+  "stickOverride": true,
+  "stickOverrideThreshold": 0.3
+}

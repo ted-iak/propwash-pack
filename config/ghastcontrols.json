@@ -1,0 +1,28 @@
+{
+  "currentProfile": 1,
+  "profiles": [
+    {
+      "name": "Default",
+      "forwardSpeed": 1.0,
+      "backwardSpeed": 1.0,
+      "strafeSpeed": 1.0,
+      "ascendSpeed": 1.0,
+      "descendSpeed": 1.0,
+      "boostRate": 2.0,
+      "dynamicPitch": true,
+      "fixedRotation": true,
+      "smoothGlide": false,
+      "descend": "SNEAK",
+      "dismount": "DOUBLE_TAP_SNEAK",
+      "dismountWindow": 5
+    }
+  ],
+  "disableRoaming": true,
+  "disableAmbientSound": true,
+  "disableMiningPenalty": true,
+  "reach": 1.0,
+  "ghastSize": 0.75,
+  "defaultSpeed": 1.0,
+  "minSpeed": 0.0,
+  "maxSpeed": 5.0
+}

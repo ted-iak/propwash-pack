@@ -1,0 +1,4 @@
+{
+  "maximumIdleSeconds": 3600,
+  "allowNeverShutdown": true
+}

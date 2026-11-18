@@ -1,0 +1,44 @@
+{
+  "extraLampLight": [
+    {
+      "id": "minecraft:lantern",
+      "luminance": 15
+    },
+    {
+      "id": "minecraft:soul_lantern",
+      "luminance": 10
+    },
+    {
+      "id": "minecraft:copper_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "minecraft:exposed_copper_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "minecraft:weathered_copper_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "minecraft:oxidized_copper_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "minecraft:waxed_copper_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_lantern",
+      "luminance": 15
+    }
+  ]
+}

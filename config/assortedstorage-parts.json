@@ -1,0 +1,13 @@
+{
+  "parts": {
+    "assortedbags": true,
+    "assortedbarrels": true,
+    "assortedchests": true,
+    "assortedcontainers": true,
+    "assortedcrates": true,
+    "assortedhoppers": true,
+    "assortedlevelupgrades": true,
+    "assortedlocks": true,
+    "assortedshulkers": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "selectedGuid": "",
+  "keyboardFallback": false,
+  "appleGameController": false,
+  "mode3dUnlocked": false,
+  "invertPitch": false,
+  "stickMode": "MODE_2",
+  "profileVersion": 2,
+  "keyboard": {
+    "response": 7.0,
+    "rollPitchLimit": 0.6,
+    "yawLimit": 0.6,
+    "throttleRate": 0.5,
+    "startInAngle": true,
+    "commands": {}
+  },
+  "mouse": {
+    "mode": "AUTO",
+    "xAxis": "ROLL",
+    "sensitivity": 1.0,
+    "dpi": 800,
+    "smoothingMs": 20.0,
+    "deadzone": 0.03,
+    "expo": 0.25,
+    "returnSpeed": 0.4,
+    "wheelStep": 0.05
+  },
+  "profiles": {},
+  "neverAsk": [
+    "0300fa675e040000130b000009057801"
+  ]
+}

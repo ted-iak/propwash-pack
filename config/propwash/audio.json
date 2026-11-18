@@ -1,0 +1,7 @@
+{
+  "motorVolume": 0.8,
+  "beepVolume": 0.7,
+  "doppler": true,
+  "voiceLimit": 4,
+  "synthesizer": true
+}

@@ -1,0 +1,13 @@
+{
+  "parts": {
+    "assortedbuildingblocks": true,
+    "assortedcolorizer": true,
+    "assorteddecorations": true,
+    "assorteddisplays": true,
+    "assortedgates": true,
+    "assortedhangeables": true,
+    "assortedlights": true,
+    "assortedpaint": true,
+    "assortedroads": true
+  }
+}

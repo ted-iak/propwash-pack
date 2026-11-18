@@ -1,0 +1,31 @@
+{
+  "controlsScreenIcon": {
+    "anchorRow": 1,
+    "side": "right"
+  },
+  "tips": {
+    "pause_hint_short": false,
+    "pause_hint_blocked": true,
+    "layer_switch_enabled": false,
+    "layer_switch_position": "top_center",
+    "layer_switch_style": "header",
+    "layer_switch_scale": 1.0,
+    "layer_switch_opacity": 0.75,
+    "layer_switch_delay_mode": "auto"
+  },
+  "profile": "bedrock",
+  "cameraLook": {
+    "smoothCameraOverridden": false
+  },
+  "guide_shown": [
+    "controlflex:camera",
+    "controlflex:interaction",
+    "controlflex:hotbar",
+    "controlflex:movement",
+    "controlflex:guide_menu"
+  ],
+  "movement": {
+    "remotePolicy": "ANALOG",
+    "drivePolicy": "ANALOG"
+  }
+}

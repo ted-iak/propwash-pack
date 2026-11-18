@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "sizeNotice": false,
+  "visualScale": 1.0,
+  "propBlurThreshold": 0.12,
+  "armLeds": true,
+  "shadow": true,
+  "renderDistance": 128,
+  "fpvProps": true,
+  "fpvDucts": true
+}

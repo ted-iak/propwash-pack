@@ -1,0 +1,14 @@
+{
+  "laps": 3,
+  "countdown": false,
+  "countdownSeconds": 3,
+  "startHint": true,
+  "showMessages": true,
+  "reportResults": true,
+  "ghost": true,
+  "recordGhost": true,
+  "startLights": true,
+  "raceLine": true,
+  "raceLineGates": 3,
+  "gateRotateStep": 90.0
+}

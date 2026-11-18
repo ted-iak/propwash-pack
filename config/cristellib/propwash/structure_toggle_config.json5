@@ -1,0 +1,19 @@
+{
+	"bandos": {
+		"bando": {
+			"coast": true,
+			"desert": true,
+			"field": true,
+			"jungle": true,
+			"mountain": true,
+			"snow": true,
+			"swamp": true
+		}
+	},
+	"world_courses": {
+		"canyon_run": true,
+		"drone_arena": true,
+		"field_slalom": true,
+		"forest_weave": true
+	}
+}

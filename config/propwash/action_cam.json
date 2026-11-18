@@ -1,0 +1,19 @@
+{
+  "height": 1080,
+  "fps": 60,
+  "stabilization": "SMOOTH",
+  "stabilizationStrength": 50,
+  "quality": "STANDARD",
+  "grain": true,
+  "autoRecord": false,
+  "audio": true,
+  "showIndicator": true,
+  "encoder": "AUTO",
+  "ffmpegPath": "",
+  "bufferMb": 0,
+  "encoderThreads": 0,
+  "flashbackAutoRecord": true,
+  "flashbackSimplify": 0.18790182470910757,
+  "flashbackKeyframeLimit": true,
+  "flashbackDensity": null
+}

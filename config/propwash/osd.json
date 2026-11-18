@@ -1,0 +1,361 @@
+{
+  "version": 4,
+  "preset": "MINIMAL",
+  "opacity": 60,
+  "lineOpacity": 60,
+  "scale": 1.0,
+  "color": "#FFFFFF",
+  "warningColor": "#FF4A4A",
+  "outline": "THIN",
+  "background": "OFF",
+  "coloredAlerts": true,
+  "hideVanillaHud": true,
+  "pitchLadder": true,
+  "analogBreakup": true,
+  "ladderStepDeg": 10.0,
+  "elements": {
+    "crosshair": {
+      "enabled": true,
+      "col": 15,
+      "row": 8,
+      "color": "",
+      "scale": 0.0
+    },
+    "artificial_horizon": {
+      "enabled": false,
+      "col": 15,
+      "row": 8,
+      "color": "",
+      "scale": 0.0
+    },
+    "horizon_sidebars": {
+      "enabled": false,
+      "col": 15,
+      "row": 8,
+      "color": "",
+      "scale": 0.0
+    },
+    "home_marker": {
+      "enabled": false,
+      "col": 15,
+      "row": 8,
+      "color": "",
+      "scale": 0.0
+    },
+    "compass_bar": {
+      "enabled": false,
+      "col": 15,
+      "row": 0,
+      "color": "",
+      "scale": 0.0
+    },
+    "heading": {
+      "enabled": false,
+      "col": 15,
+      "row": 1,
+      "color": "",
+      "scale": 0.0
+    },
+    "home_direction": {
+      "enabled": false,
+      "col": 13,
+      "row": 2,
+      "color": "",
+      "scale": 0.0
+    },
+    "home_distance": {
+      "enabled": false,
+      "col": 14,
+      "row": 2,
+      "color": "",
+      "scale": 0.0
+    },
+    "link_quality": {
+      "enabled": true,
+      "col": 1,
+      "row": 1,
+      "color": "",
+      "scale": 0.0
+    },
+    "video_signal": {
+      "enabled": true,
+      "col": 1,
+      "row": 2,
+      "color": "",
+      "scale": 0.0
+    },
+    "rssi_dbm": {
+      "enabled": false,
+      "col": 6,
+      "row": 1,
+      "color": "",
+      "scale": 0.0
+    },
+    "gate": {
+      "enabled": false,
+      "col": 1,
+      "row": 4,
+      "color": "",
+      "scale": 0.0
+    },
+    "speed": {
+      "enabled": false,
+      "col": 1,
+      "row": 8,
+      "color": "",
+      "scale": 0.0
+    },
+    "pitch_angle": {
+      "enabled": false,
+      "col": 1,
+      "row": 9,
+      "color": "",
+      "scale": 0.0
+    },
+    "roll_angle": {
+      "enabled": false,
+      "col": 1,
+      "row": 10,
+      "color": "",
+      "scale": 0.0
+    },
+    "battery_bar": {
+      "enabled": false,
+      "col": 1,
+      "row": 11,
+      "color": "",
+      "scale": 0.0
+    },
+    "current": {
+      "enabled": false,
+      "col": 1,
+      "row": 12,
+      "color": "",
+      "scale": 0.0
+    },
+    "power": {
+      "enabled": false,
+      "col": 5,
+      "row": 12,
+      "color": "",
+      "scale": 0.0
+    },
+    "mah_drawn": {
+      "enabled": false,
+      "col": 1,
+      "row": 13,
+      "color": "",
+      "scale": 0.0
+    },
+    "battery_voltage": {
+      "enabled": true,
+      "col": 1,
+      "row": 14,
+      "color": "",
+      "scale": 0.0
+    },
+    "cell_voltage": {
+      "enabled": false,
+      "col": 5,
+      "row": 14,
+      "color": "",
+      "scale": 0.0
+    },
+    "coordinates": {
+      "enabled": false,
+      "col": 1,
+      "row": 15,
+      "color": "",
+      "scale": 0.0
+    },
+    "post_flight_stats": {
+      "enabled": false,
+      "col": 15,
+      "row": 3,
+      "color": "",
+      "scale": 0.0
+    },
+    "split_delta": {
+      "enabled": false,
+      "col": 15,
+      "row": 5,
+      "color": "",
+      "scale": 0.0
+    },
+    "armed_status": {
+      "enabled": false,
+      "col": 15,
+      "row": 9,
+      "color": "",
+      "scale": 0.0
+    },
+    "warnings": {
+      "enabled": true,
+      "col": 15,
+      "row": 3,
+      "color": "",
+      "scale": 0.0
+    },
+    "stick_overlay": {
+      "enabled": false,
+      "col": 15,
+      "row": 12,
+      "color": "",
+      "scale": 0.0
+    },
+    "craft_name": {
+      "enabled": false,
+      "col": 15,
+      "row": 14,
+      "color": "",
+      "scale": 0.0
+    },
+    "video_system": {
+      "enabled": false,
+      "col": 28,
+      "row": 12,
+      "color": "",
+      "scale": 0.0
+    },
+    "clock": {
+      "enabled": false,
+      "col": 28,
+      "row": 11,
+      "color": "",
+      "scale": 0.0
+    },
+    "on_time": {
+      "enabled": false,
+      "col": 21,
+      "row": 15,
+      "color": "",
+      "scale": 0.0
+    },
+    "lap": {
+      "enabled": true,
+      "col": 28,
+      "row": 3,
+      "color": "",
+      "scale": 0.0
+    },
+    "lap_time": {
+      "enabled": true,
+      "col": 28,
+      "row": 4,
+      "color": "",
+      "scale": 0.0
+    },
+    "last_lap": {
+      "enabled": false,
+      "col": 28,
+      "row": 6,
+      "color": "",
+      "scale": 0.0
+    },
+    "best_lap": {
+      "enabled": false,
+      "col": 28,
+      "row": 7,
+      "color": "",
+      "scale": 0.0
+    },
+    "altitude": {
+      "enabled": false,
+      "col": 28,
+      "row": 8,
+      "color": "",
+      "scale": 0.0
+    },
+    "vario": {
+      "enabled": false,
+      "col": 28,
+      "row": 9,
+      "color": "",
+      "scale": 0.0
+    },
+    "g_force": {
+      "enabled": false,
+      "col": 28,
+      "row": 10,
+      "color": "",
+      "scale": 0.0
+    },
+    "flight_mode": {
+      "enabled": true,
+      "col": 28,
+      "row": 2,
+      "color": "",
+      "scale": 0.0
+    },
+    "throttle": {
+      "enabled": false,
+      "col": 28,
+      "row": 13,
+      "color": "",
+      "scale": 0.0
+    },
+    "flight_time": {
+      "enabled": true,
+      "col": 28,
+      "row": 14,
+      "color": "",
+      "scale": 0.0
+    },
+    "recording": {
+      "enabled": true,
+      "col": 28,
+      "row": 1,
+      "color": "",
+      "scale": 0.0
+    },
+    "leds_off": {
+      "enabled": true,
+      "col": 1,
+      "row": 3,
+      "color": "",
+      "scale": 0.0
+    },
+    "gps_sats": {
+      "enabled": false,
+      "col": 28,
+      "row": 15,
+      "color": "",
+      "scale": 0.0
+    },
+    "vtx_channel": {
+      "enabled": true,
+      "col": 1,
+      "row": 5,
+      "color": "",
+      "scale": 0.0
+    },
+    "relay": {
+      "enabled": true,
+      "col": 1,
+      "row": 6,
+      "color": "",
+      "scale": 0.0
+    },
+    "tricks": {
+      "enabled": true,
+      "col": 15,
+      "row": 13,
+      "color": "",
+      "scale": 0.0
+    },
+    "flashback_budget": {
+      "enabled": true,
+      "col": 28,
+      "row": 5,
+      "color": "",
+      "scale": 0.0
+    },
+    "vtx_power": {
+      "enabled": true,
+      "col": 1,
+      "row": 7,
+      "color": "",
+      "scale": 0.0
+    }
+  }
+}

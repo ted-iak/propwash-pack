@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "selectionStick": "BOTH",
+  "menus": [
+    {
+      "id": 1,
+      "name": "Menu 1",
+      "mode": "PRESS",
+      "assignedLayer": "main",
+      "menuScale": 0.9685534,
+      "slots": [
+        { "type": "keybinding", "target": "key.remorphed:key.remorphed_menu", "icon": "minecraft:shaper_armor_trim_smithing_template", "name": "Morph Menu" },
+        { "type": "keybinding", "target": "key.xaeroworldmap:gui.xaero_open_map", "icon": "minecraft:filled_map", "name": "World Map" },
+        { "type": "keybinding", "target": "key.beltborne_lanterns:key.beltborne_lanterns.toggle_lantern", "icon": "minecraft:lantern", "name": "Hip Lantern" },
+        { "type": "keybinding", "target": "key.portalguntotality:key.portalguntotality.reset_portals", "icon": "portalguntotality:portal_gun", "name": "Clear Portals" },
+        { "type": "keybinding", "target": "key.gammautils:key.gammautils.nightVisionToggle", "icon": "cameramonitoring:night_vision_module", "name": "NVG Toggle" },
+        { "type": "keybinding", "target": "key.propwash:key.propwash.configurator", "icon": "propwash:drone", "name": "Propwash" },
+        { "type": "keybinding", "target": "key.quickskin:key.quickskin.open_menu", "icon": "minecraft:armor_stand", "name": "Wardrobe" },
+        { "type": "keybinding", "target": "key.voicechat:key.voice_chat", "icon": "cameramonitoring:audio_module", "name": "Voice Chat" }
+      ]
+    },
+    { "id": 2, "name": "Menu 2", "mode": "HOLD", "assignedLayer": "shift1", "menuScale": 1.0, "slots": [ { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" } ] },
+    { "id": 3, "name": "Menu 3", "mode": "HOLD", "assignedLayer": "shift2", "menuScale": 1.0, "slots": [ { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" } ] },
+    { "id": 4, "name": "Menu 4", "mode": "HOLD", "assignedLayer": "shift3", "menuScale": 1.0, "slots": [ { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" } ] },
+    { "id": 5, "name": "Menu 5", "mode": "HOLD", "assignedLayer": "shift4", "menuScale": 1.0, "slots": [ { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" }, { "type": "empty", "target": "", "icon": "auto" } ] }
+  ]
+}
