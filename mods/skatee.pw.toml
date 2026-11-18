@@ -1,0 +1,13 @@
+name = "Skatee"
+filename = "skatecraft-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d2dfbf72c2b536c5227327aa145b842d3f0619a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9556087
+project-id = 1793986

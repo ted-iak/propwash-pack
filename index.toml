@@ -76,6 +76,11 @@ hash = "635ce056598c02080a0726d4179394dd0c3843486def18e67ed4e53d82fe0ebf"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "2d7010a930dfc1963611d271fecd79efb2171074ed3af75ad6c4d84225a1241f"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2b9727522c90a979eb9671ad7c5421443d91391b0697d1772146e6bfa19cb3c1"
 metafile = true
@@ -102,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/control-flex.pw.toml"
-hash = "7aa8b8062ba14c31cb1122ca7127a47af88799b5b1dbfcc742a7beb4a1fa4c9f"
+hash = "d8769530e26caf0ae556f89f7d65d2b0616eb1635249c707b65f0460a567eece"
 metafile = true
 
 [[files]]
@@ -152,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "8cfd619edd7190fdd7f048bc7815193699d0583857f988e421b8e7816167ad25"
+hash = "dd8049b57c04c865f57236f30a96330b8fb5a679b93e7021e3a1a0357f356144"
 metafile = true
 
 [[files]]
@@ -456,6 +461,11 @@ hash = "6865b44c30baa85a87c344ac9d3e0eb0135e90b26a90a6dc28bf79a363170cf9"
 metafile = true
 
 [[files]]
+file = "mods/skatee.pw.toml"
+hash = "6a07088fbda967b73f83bb7710a0047eaec8798f690e86221e9a1b7ae81df438"
+metafile = true
+
+[[files]]
 file = "mods/skinshifter.pw.toml"
 hash = "186b41d9c6cc51184774ce91642648822dfc8447f25d32b63eae4e4e8b195b5f"
 metafile = true
@@ -467,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "9bab2f7038705a3a14c522ef378743465a596f2d1e28305c2c9a291cbb7d6289"
+hash = "f5b4ae158259f9e6f3c655cbb8865362a5c5609865c4d105d0576919054e5622"
 metafile = true
 
 [[files]]
@@ -492,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "f7366aec351213748a584ced6569924dde9813dce0032145bc12a4dca1317dbd"
+hash = "1f47aa7d16d284401ba0391121ed900c8abb342de7d70128b89fa4c394080bdd"
 metafile = true
 
 [[files]]
@@ -562,12 +572,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "14e96b12f10a1f2920cdcec89b4d16e452bec4689e117b38b4c0f759145aaf7f"
+hash = "d52e1870e22b706a9362f329209492524ee62d24e5075bf18c53f574ab6b1886"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "cbb9808546870ecb0a7befebb14df0a11383b1aeafd175a77a0fc4caee44c6f2"
+hash = "9d92bfd0620f898424cd10bee2f9bdf67e6842ed88e340aec3d2863e925fa7d0"
 metafile = true
 
 [[files]]
