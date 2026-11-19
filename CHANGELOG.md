@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1 hotfix
+- **Camera Monitoring rolled back to 1.5.12.** 1.5.16 crashed the server whenever a camera
+  was placed or loaded.
+
 ## 1.0.1
 
 ### How you install it
@@ -19,9 +23,6 @@
 ### Removed
 - **Legendary Tooltips** (and its libraries Prism and Iceberg) – back to plain dark tooltips.
 - **Advancement Plaques** – wasn't being used.
-
-### Updated
-- **Camera Monitoring** 1.5.12 → 1.5.16.
 
 ### Drones
 - **Controllers only:** drones can't be armed or flown with the keyboard. Press **K** to set up

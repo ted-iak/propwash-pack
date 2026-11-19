@@ -1,13 +1,13 @@
 name = "Camera Monitoring: CCTV System Fully Customizable + Screens"
-filename = "cameramonitoring-fabric-26.3-1.5.16.jar"
+filename = "cameramonitoring-fabric-26.3-1.5.12.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c5948159546ec878cbb37df32f2ac9a47a073c34"
+hash = "e5c2b9320af6ea28a9496b8a98d9e6052d641ab5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9676079
+file-id = 9596231
 project-id = 1686878

@@ -1026,7 +1026,7 @@ metafile = true
 
 [[files]]
 file = "mods/camera-monitoring-fully-customizable.pw.toml"
-hash = "6dd733efba2ce7026d8cc912ce09f137c1953e76507b1c54b418f12f59967799"
+hash = "4f26240b9f6ee1aa0adbf9eae62753c874ccc9eac3850ee7187bf2cfbd3e106a"
 metafile = true
 
 [[files]]
