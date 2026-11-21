@@ -5,6 +5,8 @@
   that slowed everyone's game. To find a crashed drone, use the **beeper: press `.`** (period)
   and follow the sound.
 - **Lighter rain and snow** (Particle Rain): fewer particles, drawn a little closer to you.
+- **All portal-gun portals were closed** (there were too many everywhere, and every open portal
+  slows everyone's game). Your portal gun still works, just shoot new ones.
 - **Server:** clearing out old drones left lying around near spawn.
 
 ## 1.0.1 hotfix
