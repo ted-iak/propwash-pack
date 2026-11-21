@@ -542,7 +542,7 @@ hash = "db3de15c9e8c5babb29ebe1ecb63e0a416b56e7e49f75a405ad57f6d0bcdf324"
 
 [[files]]
 file = "config/particlerain/config.json"
-hash = "f1c49e7af4604001394994b16139cff2523f95539830f3ba9464c198e404456c"
+hash = "028570ba03db80e3b1539508e8bcb12daa7fb463d1e64d559a43425f28e399af"
 
 [[files]]
 file = "config/patpat/patpat-client.json5"

@@ -1,12 +1,12 @@
 name = "Propwash 26.3 Family FPV"
 author = "ted-iak"
-version = "1.0.1"
+version = "1.0.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "50118f1604bae2f44225988c69c03d2f672adaa7e3ceefee936cb89156329d9b"
+hash = "0ce0ca2ea61861fcf81ad0817a3aa986fee51578c9334749c12ba04acd11832e"
 
 [versions]
 fabric = "0.20.1"

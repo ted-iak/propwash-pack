@@ -1,9 +1,9 @@
 {
   "configVersion": 8,
   "perf": {
-    "particleAmount": 1500,
-    "particleStormDensity": 1.5,
-    "particleDistance": 16,
+    "particleAmount": 600,
+    "particleStormDensity": 1.0,
+    "particleDistance": 12,
     "surfaceRange": 100
   },
   "sound": {

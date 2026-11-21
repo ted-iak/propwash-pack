@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.1 hotfix 2 (performance)
+- **Drones no longer glow.** Every drone had a white outline, and with lots of drones around
+  that slowed everyone's game. To find a crashed drone, use the **beeper: press `.`** (period)
+  and follow the sound.
+- **Lighter rain and snow** (Particle Rain): fewer particles, drawn a little closer to you.
+- **Server:** clearing out old drones left lying around near spawn.
+
 ## 1.0.1 hotfix
 - **Camera Monitoring rolled back to 1.5.12.** 1.5.16 crashed the server whenever a camera
   was placed or loaded.
