@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.2 (in testing)
+- **New buttons on the inventory screen** (press E): **Survival**, **Creative**, **Clear weather**,
+  **Go to player** (pick a name from the list), **HOME** (back to your bed or the world spawn),
+  and **Open to LAN** in your own single-player worlds. No typing commands any more.
+- To skip the night, **one person sleeping is enough**.
+
 ## 1.0.1 hotfix 2 (performance)
 - **Drones no longer glow.** Every drone had a white outline, and with lots of drones around
   that slowed everyone's game. To find a crashed drone, use the **beeper: press `.`** (period)

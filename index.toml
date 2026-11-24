@@ -1150,6 +1150,10 @@ hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
 metafile = true
 
 [[files]]
+file = "mods/family_tools-0.1.0.jar"
+hash = "d7920596e586c5ba3115758faf1d1c37cbcf2bf22bc04bd3bf102af157a6aab4"
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
